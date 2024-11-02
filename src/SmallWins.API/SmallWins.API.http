@@ -1,0 +1,6 @@
+@SmallWins.API_HostAddress = http://localhost:5193
+
+GET {{SmallWins.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
